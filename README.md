@@ -1,5 +1,8 @@
 # UIUX Rafiq Project  
 
+## Google Drive Link
+https://drive.google.com/drive/folders/1SFvNFDBnnpZCYBse-Z_wQY6NH6pocaHb?usp=sharing
+
 ## 🏥 About the Project  
 **UIUX Rafiq** is a comprehensive platform designed to enhance the quality of life for seniors and provide essential support for them and their families.  
 The app offers **smart, user-friendly tools** that help seniors manage their daily lives effortlessly, with a focus on:  
@@ -18,12 +21,6 @@ The repository contains:
 - **`/Branding`** → Logo and visual identity assets (Illustrator)  
 - **`/Documentation`** → Project research, wireframes, and reports  
 - **`/Images`** → Screenshots of the app design  
-
-## 🔗 Live Prototype  
-Check out the interactive prototype here: [Figma Prototype Link](#) *(Replace with actual link)*  
-
-## 📸 Screenshots  
-![App Preview](#) *(Replace with actual screenshot link)*  
 
 ## 🛠 Tools Used  
 - 🎨 **Figma** → UI/UX design  
